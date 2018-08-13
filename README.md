@@ -1,2 +1,2 @@
 # watchspoofing
-Watch Spoofing is a script in Bash to detect ARP Spoofing
+Watch Spoofing is a script in Bash to detect ARP Spoofing attacks.
