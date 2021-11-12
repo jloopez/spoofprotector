@@ -1,4 +1,3 @@
 # Spoof Protector
-Spoof Protector is a script in Bash to detect ARP Spoofing attacks. 
-
-The main function is to detect a change in the ARP Table. The script will check the table constantly and it will try to stop a Man In the Middle Attack. You have to give it your Gateway IP, and that's it.
+Spoof Protector es un script en Bash para detectar ataques de suplantación de ARP.
+La función principal es detectar un cambio en la tabla ARP. El script revisará la tabla constantemente e intentará detener a un hombre en el ataque del medio. Tienes que darle tu IP de gateway, y eso es todo.
